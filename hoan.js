@@ -36,3 +36,4 @@ gl.uniform2f(u_Scale, 0.5, 0.5);
   gl.clear(gl.COLOR_BUFFER_BIT);
   gl.drawArrays(gl.TRIANGLES, 0, 3);
 }
+return;
